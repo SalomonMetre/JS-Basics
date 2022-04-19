@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: #2d3436;
+}
+
+.operations {
+    width: 40%;
+    background-color: #ccc;
+    padding: 5%;
+    margin-left: 30%;
+}
+
+input {
+    width: 40%;
+    padding: 1%;
+    height: 50px;
+    background-color: #fff;
+    font-size: 30px;
+}
+
+label {
+    color: white;
+    font-size: 30px;
+}
+
+button {
+    color: yellow;
+    background-color: #2d3436;
+    padding: 2%;
+}
